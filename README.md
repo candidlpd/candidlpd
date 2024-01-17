@@ -1,3 +1,4 @@
+![logo](https://github.com/candidlpd/candidlpd/blob/master/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Lal Dangal</h1>
 <h3 align="center">A zealous Azure Cloud Data Engineer with a keen interest in Generative AI</h3>
 
