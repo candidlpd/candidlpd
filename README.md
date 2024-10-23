@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:ibanath.dangal@gmail.com">
+  <a href="mailto:candidprasad@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
