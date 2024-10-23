@@ -1,6 +1,6 @@
 <div align="center">
   <img src="<div align="center">
-  <img src="git_image.png" alt="Logo" width="150" height="150">
+  <img src="git_image.png" alt="Logo" width="300" height="200">
 </div>
 
 <h1 align="center">Hi 👋, I'm Lal Dangal</h1>
