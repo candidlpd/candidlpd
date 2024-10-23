@@ -25,7 +25,7 @@
 - 🔭 **I’m a dedicated professional specializing in Generative AI and Machine Learning.**
 - 🌱 **Currently enhancing skills in:** Azure Databricks, Azure Data Factory, Deep Learning, LLM Models, LangChain, Transformers, and NLP.
 - 💡 **Passionate about:** Building intelligent systems, solving complex problems, and creating cutting-edge AI solutions.
-- 📫 **Reach out to me via:** [ibanath.dangal@gmail.com](mailto:ibanath.dangal@gmail.com)
+- 📫 **Reach out to me via:** [candidprasad@gmail.com](mailto:candidprasad@gmail.com)
 
 ---
 
