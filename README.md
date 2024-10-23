@@ -79,12 +79,3 @@
 " alt="Logo" width="150" height="150">
 </div>
 
-
----
-
-<h2 align="center">🌐 Connect with Me 🌐</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/candidlpd"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github"></a>
-  <a href="mailto:ibanath.dangal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"></a>
-</p>
