@@ -3,7 +3,7 @@
   <img src="git_image.png" alt="Logo" width="1000" height="500">
 </div>
 
-<h1 align="center">Hi 👋, I'm Lal Dangal</h1>
+<h1 align="center">Hi 👋, I'm Lal Prasad Dangal</h1>
 <h3 align="center">🚀 Generative AI Engineer | Deep Learning Engineer | NLP Engineer | Data Scientist 🚀</h3>
 
 <p align="center">
