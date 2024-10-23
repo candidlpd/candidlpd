@@ -1,28 +1,154 @@
-![logo](https://github.com/candidlpd/candidlpd/blob/master/github-header-image%20(2).png)
+<div align="center">
+  <img src="<div align="center">
+  <img src="git_image.png" alt="Logo" width="150" height="150">
+</div>
+
 <h1 align="center">Hi 👋, I'm Lal Dangal</h1>
-<h3 align="center">A zealous Azure Cloud Data Engineer with a keen interest in Generative AI</h3>
+<h3 align="center">🚀 Generative AI Engineer | Deep Learning Engineer | NLP Engineer | Data Scientist 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=candidlpd&label=Profile%20views&color=0e75b6&style=flat" alt="candidlpd" /> </p>
-
-<p align="left"> <a href="https://twitter.com/candidlpd" target="blank"><img src="https://img.shields.io/twitter/follow/candidlpd?logo=twitter&style=for-the-badge" alt="candidlpd" /></a> </p>
-
-- 🌱 I’m currently learning **Azure Databricks, Azure Data Factory, Azure Synapse, LangChain Model, Deep Learning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/candidlpd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="candidlpd" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/candidlpd">
+    <img src="https://img.shields.io/github/followers/candidlpd?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:ibanath.dangal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=candidlpd&show_icons=true&locale=en&layout=compact" alt="candidlpd" /></p>
+<h2 align="center">⚡ About Me ⚡</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=candidlpd&show_icons=true&locale=en" alt="candidlpd" /></p>
+- 🔭 **I’m a dedicated professional specializing in Generative AI and Machine Learning.**
+- 🌱 **Currently enhancing skills in:** Azure Databricks, Azure Data Factory, Deep Learning, LLM Models, LangChain, Transformers, and NLP.
+- 💡 **Passionate about:** Building intelligent systems, solving complex problems, and creating cutting-edge AI solutions.
+- 📫 **Reach out to me via:** [ibanath.dangal@gmail.com](mailto:ibanath.dangal@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candidlpd&" alt="candidlpd" /></p>
+---
 
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Deep%20Learning-%231572B6.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/NLP-66CCFF?style=flat-square&logo=spaCy&logoColor=white" alt="NLP">
+  <img src="https://img.shields.io/badge/Generative%20AI-ff69b4?style=flat-square&logo=openai&logoColor=white" alt="Generative AI">
+  <img src="https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" alt="Tableau">
+</p>
+
+---
+
+<h2 align="center">💼 Professional Experience 💼</h2>
+
+- **Generative AI Engineer** - Working on advanced LLM models, developing end-to-end AI solutions, and leveraging vector databases.
+- **Deep Learning & NLP Engineer** - Expertise in transformers, language models, and neural networks to build intelligent systems.
+- **Azure Cloud Data Engineer** - Skilled in Azure Synapse, Azure Data Factory, and Databricks for big data solutions.
+
+---
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=candidlpd&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=candidlpd&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidlpd&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+---
+
+<h2 align="center">📚 Featured Projects 📚</h2>
+
+- **[Generative AI for Pharmacy Fraud Detection](https://github.com/candidlpd/pharmacy-fraud-ai):** Developed a generative AI model to analyze and detect fraudulent pharmacy practices using advanced deep learning techniques.
+- **[NLP Contract Analysis](https://github.com/candidlpd/contract-nlp):** NLP solution to automate the analysis of legal contracts, extracting key clauses and insights.
+- **[Azure Data Engineering Pipelines](https://github.com/candidlpd/azure-data-pipeline):** End-to-end data pipelines on Azure, integrating data from multiple sources and ensuring seamless data flow.
+
+---
+
+<h2 align="center">🌐 Connect with Me 🌐</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/candidlpd"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github"></a>
+  <a href="mailto:ibanath.dangal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"></a>
+</p>
+" alt="Logo" width="150" height="150">
+</div>
+
+<h1 align="center">Hi 👋, I'm Lal Dangal</h1>
+<h3 align="center">🚀 Generative AI Engineer | Deep Learning Engineer | NLP Engineer | Data Scientist 🚀</h3>
+
+<p align="center">
+  <a href="https://github.com/candidlpd">
+    <img src="https://img.shields.io/github/followers/candidlpd?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:ibanath.dangal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
+
+<h2 align="center">⚡ About Me ⚡</h2>
+
+- 🔭 **I’m a dedicated professional specializing in Generative AI and Machine Learning.**
+- 🌱 **Currently enhancing skills in:** Azure Databricks, Azure Data Factory, Deep Learning, LLM Models, LangChain, Transformers, and NLP.
+- 💡 **Passionate about:** Building intelligent systems, solving complex problems, and creating cutting-edge AI solutions.
+- 📫 **Reach out to me via:** [ibanath.dangal@gmail.com](mailto:ibanath.dangal@gmail.com)
+
+---
+
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Deep%20Learning-%231572B6.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/NLP-66CCFF?style=flat-square&logo=spaCy&logoColor=white" alt="NLP">
+  <img src="https://img.shields.io/badge/Generative%20AI-ff69b4?style=flat-square&logo=openai&logoColor=white" alt="Generative AI">
+  <img src="https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" alt="Tableau">
+</p>
+
+---
+
+<h2 align="center">💼 Professional Experience 💼</h2>
+
+- **Generative AI Engineer** - Working on advanced LLM models, developing end-to-end AI solutions, and leveraging vector databases.
+- **Deep Learning & NLP Engineer** - Expertise in transformers, language models, and neural networks to build intelligent systems.
+- **Azure Cloud Data Engineer** - Skilled in Azure Synapse, Azure Data Factory, and Databricks for big data solutions.
+
+---
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=candidlpd&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=candidlpd&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidlpd&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+---
+
+<h2 align="center">📚 Featured Projects 📚</h2>
+
+- **[Generative AI for Pharmacy Fraud Detection](https://github.com/candidlpd/pharmacy-fraud-ai):** Developed a generative AI model to analyze and detect fraudulent pharmacy practices using advanced deep learning techniques.
+- **[NLP Contract Analysis](https://github.com/candidlpd/contract-nlp):** NLP solution to automate the analysis of legal contracts, extracting key clauses and insights.
+- **[Azure Data Engineering Pipelines](https://github.com/candidlpd/azure-data-pipeline):** End-to-end data pipelines on Azure, integrating data from multiple sources and ensuring seamless data flow.
+
+---
+
+<h2 align="center">🌐 Connect with Me 🌐</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/candidlpd"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github"></a>
+  <a href="mailto:ibanath.dangal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"></a>
+</p>
